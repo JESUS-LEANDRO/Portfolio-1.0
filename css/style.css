@@ -379,6 +379,7 @@ footer p{
     }
     footer{
         padding-bottom: -30px;
+        display: inline-flex;
         font-size: 15px
     }  
 };
@@ -450,9 +451,9 @@ footer p{
         right: 38%;
     }
     footer{
-        width: 50%;
+        width: 15%;
     }
     footer p{
-        font-size: 10px
+        font-size: 8px;
     }
 };
