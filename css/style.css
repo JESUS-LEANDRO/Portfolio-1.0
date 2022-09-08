@@ -24,6 +24,9 @@ span{
 }
 header{
     display: flex;
+    position: fixed;
+    width: 100%;
+    background: rgb(47, 164, 231);
     justify-content: space-between;
 }
 header h1{
@@ -265,7 +268,13 @@ textarea{
 .ligue-me p{
     margin-right: 30px;
 }
+.ligue-me > .call{
+    margin-left: 5px;
+}
 .ligue-me img{
+    margin-left: 10px;
+}
+.zap > .talk{
     margin-left: 10px;
 }
 .zap img{
